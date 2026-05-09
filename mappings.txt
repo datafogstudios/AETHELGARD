@@ -1,0 +1,696 @@
+        title: "The Invisible Giant: What is the Forex Market?",
+        duration: "8 min",
+        difficulty: "Beginner",
+        moduleLessonsCount: 5,
+        objectives: [
+          "Identify the core participants and mechanics of the global currency exchange",
+          "Distinguish between the Forex market and traditional stock exchanges",
+          "Describe the decentralized nature of the Over-The-Counter (OTC) market",
+          "Recognise the scale of global liquidity and its impact on trade execution"
+        ],
+        introduction: "You use it every time you buy an imported product, travel abroad, or pay for a digital service from another country. Yet, most people never see the engine behind these transactions. The Forex market is the invisible giant of global finance—a 24-hour marketplace where the world's currencies are traded against one another. Understanding this scale is your first step toward professional trading.",
+        sections: [
+          {
+            title: "The Largest Market on Earth",
+            icon: <Globe size={24} />,
+            illustration: <WhatIsForexVisual />,
+--
+        title: "The Hierarchy of Power: Who Trades Forex?",
+        duration: "12 min",
+        difficulty: "Beginner",
+        moduleLessonsCount: 5,
+        objectives: [
+          "Identify the four primary tiers of market participants in the Forex hierarchy",
+          "Distinguish between the profit-driven motives of commercial banks and the policy-driven motives of central banks",
+          "Describe the role of liquidity providers in facilitating retail trade execution",
+          "Analyse how retail traders can align their strategies with institutional 'Smart Money' flow"
+        ],
+        introduction: "You’ve likely heard the statistic: 90% of retail traders lose money. But have you ever asked who is on the other side of those losing trades? In the Forex market, you aren't just trading against a screen; you are entering a global arena populated by the world's most powerful financial institutions. To survive, you must stop thinking like a 'retailer' and start understanding the 'whales' that move the price. This lesson pulls back the curtain on the market hierarchy, showing you exactly who moves the money—and why.",
+        sections: [
+          {
+            title: "The Interbank Market: The Top Tier",
+            icon: <Layers size={24} />,
+            illustration: <MarketDriversSessionsVisual />,
+--
+        title: "The Tug-of-War: Currency Pairs & Exchange Rates",
+        duration: "15 min",
+        difficulty: "Beginner",
+        moduleLessonsCount: 5,
+        objectives: [
+          "Distinguish between the Base currency and the Quote currency in any given pair",
+          "Interpret an exchange rate to determine the exact cost of one unit of the base currency",
+          "Calculate the profit or loss potential based on exchange rate fluctuations",
+          "Explain how supply and demand dynamics influence the relative value of a currency pair"
+        ],
+        introduction: "In the world of Forex, you never trade a single currency in isolation. You are always comparing the strength of one economy against another. This relationship is expressed through a 'Pair'—the fundamental unit of all Forex trading. Whether you are buying the Euro or selling the Yen, you are participating in a tug-of-war between two global powers. This lesson will teach you how to read the 'price tag' of the world's currencies and understand exactly what happens when you click 'Trade'.",
+        sections: [
+          {
+            title: "The Anatomy of a Pair: Base vs. Quote",
+            icon: <Coins size={24} />,
+            illustration: <CurrencyPairsVisual />,
+--
+        title: "Choosing Your Battlefield: Majors, Minors, and Exotics",
+        duration: "10 min",
+        difficulty: "Beginner",
+        moduleLessonsCount: 5,
+        objectives: [
+          "Identify the seven 'Major' currency pairs and explain why they are the most traded",
+          "Distinguish between 'Minor' (Cross) pairs and 'Exotic' pairs based on liquidity and spread",
+          "Explain the relationship between trading volume and transaction costs (spread)",
+          "Evaluate which category of currency pairs is most suitable for a beginner trader’s risk profile"
+        ],
+        introduction: "Not all currency pairs are created equal. In the Forex market, some pairs move smoothly with massive volume and low costs, while others are wild, unpredictable, and expensive to trade. Choosing the right pair is like choosing the right terrain for a race—you wouldn't take a sports car into a swamp. This lesson will help you categorize the hundreds of available pairs into three distinct groups: Majors, Minors, and Exotics, so you can focus your energy where the odds are in your favor.",
+        sections: [
+          {
+            title: "The Majors: The Global Heavyweights",
+            icon: <Activity size={24} />,
+            illustration: <CurrencyPairsVisual />,
+--
+        title: "The 24-Hour Relay: Market Sessions & Liquidity",
+        duration: "15 min",
+        difficulty: "Beginner",
+        moduleLessonsCount: 5,
+        objectives: [
+          "Identify the four major global trading sessions and their specific operating hours",
+          "Explain the concept of 'Session Overlap' and why it represents the highest liquidity in the market",
+          "Analyse how liquidity affects price volatility and the reliability of technical signals",
+          "Determine the optimal trading window based on your local time zone and chosen currency pairs"
+        ],
+        introduction: "The Forex market never sleeps, but it does take 'naps'. While you can technically trade at 2 AM on a Tuesday, the market environment at that time is vastly different from the environment at 2 PM. Trading is not just about WHAT you trade, but WHEN you trade. In this lesson, we will map out the 24-hour global cycle, identifying the 'Golden Hours' where liquidity is at its peak and the 'Dead Zones' where trading becomes a high-risk, low-reward gamble.",
+        sections: [
+          {
+            title: "The 24-Hour Relay Race",
+            icon: <Clock4 size={24} />,
+            illustration: <MarketDriversSessionsVisual />,
+--
+        title: "The Heartbeat of Price: Understanding Pips and Points",
+        duration: "12 min",
+        difficulty: "Beginner",
+        moduleLessonsCount: 5,
+        objectives: [
+          "Define a 'Pip' and a 'Pipette' and identify their positions in a standard exchange rate",
+          "Calculate the total pip movement between two different price points",
+          "Distinguish between 4-decimal and 5-decimal pricing structures",
+          "Explain the unique pip calculation for JPY-based currency pairs"
+        ],
+        introduction: "In the stock market, you talk about dollars and cents. In the Forex market, we talk about Pips. A Pip is the heartbeat of a currency pair—the smallest standard unit of price movement. Whether you are aiming for a 20-pip profit or a 50-pip stop loss, understanding this measurement is non-negotiable. Without it, you cannot calculate your risk, your position size, or your profit. This lesson will turn you into a pip-counting expert, covering everything from standard pairs to the unique world of the Japanese Yen.",
+        sections: [
+          {
+            title: "What is a Pip?",
+            icon: <Activity size={24} />,
+            illustration: <PipsLotsLeverageVisual />,
+--
+        title: "The Weight of the Trade: Lot Sizes & Contract Value",
+        duration: "15 min",
+        difficulty: "Beginner",
+        moduleLessonsCount: 5,
+        objectives: [
+          "Identify the three standard lot sizes (Standard, Mini, Micro) and their respective unit values",
+          "Calculate the total contract value of a trade based on the chosen lot size",
+          "Explain the relationship between lot size and the monetary value of a single pip",
+          "Determine the appropriate lot size to use based on a specific account balance and risk percentage"
+        ],
+        introduction: "If Pips are the distance, 'Lots' are the weight. In Forex, you don't just trade 'some' money; you trade in standardized blocks called Lots. The lot size you choose is the single most important lever you have for controlling your risk. It determines whether a 10-pip move earns you $1 or $100. This lesson will break down the three primary lot sizes used by traders and show you how to calculate the real-world value of your positions before you ever hit the 'Buy' button.",
+        sections: [
+          {
+            title: "Standardized Trading: The Three Lot Sizes",
+            icon: <Layers size={24} />,
+            illustration: <PipsLotsLeverageVisual />,
+--
+        title: "The Double-Edged Sword: Leverage & Margin Explained",
+        duration: "15 min",
+        difficulty: "Beginner",
+        moduleLessonsCount: 5,
+        objectives: [
+          "Define 'Leverage' and 'Margin' and explain their roles in increasing buying power",
+          "Calculate the required margin for a trade based on the leverage ratio provided by a broker",
+          "Identify the risks associated with high leverage and the potential for a 'Margin Call'",
+          "Distinguish between 'Used Margin' and 'Free Margin' in a live trading account"
+        ],
+        introduction: "Leverage is the 'superpower' of the Forex market. It allows a trader with a $1,000 account to control $100,000 worth of currency. But like any superpower, it is a double-edged sword. While it can amplify your profits to life-changing levels, it can equally amplify your losses, leading to the dreaded 'Margin Call'. This lesson will demystify how leverage works, how brokers calculate your margin requirements, and how to use this tool safely without gambling your entire account.",
+        sections: [
+          {
+            title: "Buying Power: What is Leverage?",
+            icon: <ZapIcon size={24} />,
+            illustration: <PipsLotsLeverageVisual />,
+--
+        title: "The Cost of Entry: Bid, Ask, and The Spread",
+        duration: "10 min",
+        difficulty: "Beginner",
+        moduleLessonsCount: 5,
+        objectives: [
+          "Define the 'Bid' and 'Ask' prices and identify which one applies to buying vs. selling",
+          "Calculate the 'Spread' in pips for any given currency pair",
+          "Explain how the spread acts as a transaction cost for every trade",
+          "Identify the factors that cause spreads to widen or tighten in the live market"
+        ],
+        introduction: "In every trade, you start slightly in the red. This isn't because you made a mistake—it's because of the 'Spread'. The spread is the difference between the price you can sell at (Bid) and the price you must buy at (Ask). It is the primary way brokers make their money and serves as your 'entry fee' for the market. Understanding the spread is vital for short-term traders, as a high spread can turn a winning strategy into a losing one before you even begin. This lesson will teach you how to calculate these costs and when to avoid trading to keep your expenses low.",
+        sections: [
+          {
+            title: "The Two-Way Quote",
+            icon: <Scale size={24} />,
+            illustration: <OrderTypesVisual />,
+--
+        title: "Mastering Execution: Types of Orders (Market, Limit, Stop)",
+        duration: "15 min",
+        difficulty: "Beginner",
+        moduleLessonsCount: 5,
+        objectives: [
+          "Distinguish between 'Market Orders' and 'Pending Orders'",
+          "Explain the difference between 'Limit' and 'Stop' orders for both buying and selling",
+          "Execute a 'Stop Loss' and 'Take Profit' order to manage risk and lock in gains",
+          "Identify the best order type to use based on specific market conditions and entry strategies"
+        ],
+        introduction: "You don't always have to be at your computer to enter a trade. In fact, professional traders rarely sit and wait for a price to hit their level—they use 'Pending Orders'. Whether you want to buy immediately at the current price or wait for the market to reach a specific 'discount' zone, understanding order types is your key to automation and emotional control. This lesson will break down the mechanics of Market, Limit, and Stop orders, ensuring you can execute your strategy with surgical precision, even while you sleep.",
+        sections: [
+          {
+            title: "Immediate Action: The Market Order",
+            icon: <ZapIcon size={24} />,
+            illustration: <OrderTypesVisual />,
+--
+        title: "The Professional Workspace: Introduction to TradingView",
+        duration: "20 min",
+        difficulty: "Beginner",
+        moduleLessonsCount: 2,
+        objectives: [
+          "Navigate the TradingView interface and customize the charting workspace",
+          "Utilize essential drawing tools like trendlines, rectangles, and Fibonacci retracements",
+          "Set up a professional watchlist to monitor multiple currency pairs simultaneously",
+          "Use the 'Long/Short Position' tool to calculate risk-to-reward ratios visually"
+        ],
+        introduction: "TradingView is the 'Gold Standard' for technical analysis. It is where you will spend 90% of your time as a trader—analyzing price action, mapping out levels, and planning your entries. Unlike execution platforms like MetaTrader, TradingView is designed for clarity and precision. This lesson will get you comfortable with your new workspace, showing you how to turn a messy chart into a professional analysis tool that guides your decision-making with confidence.",
+        sections: [
+          {
+            title: "The Modern Charting Standard",
+            icon: <Monitor size={24} />,
+            illustration: <TradingViewInterfaceVisual />,
+--
+        title: "The Execution Engine: Setting Up MetaTrader 4/5",
+        duration: "15 min",
+        difficulty: "Beginner",
+        moduleLessonsCount: 2,
+        objectives: [
+          "Connect a live or demo broker account to the MetaTrader 4 or 5 platform",
+          "Navigate the 'Market Watch', 'Navigator', and 'Toolbox' windows with ease",
+          "Execute, modify, and close trades using both the 'New Order' window and 'One-Click Trading'",
+          "Monitor account metrics like Balance, Equity, Margin, and Free Margin in real-time"
+        ],
+        introduction: "While TradingView is for analysis, MetaTrader is for execution. It is the 'cockpit' where you actually pull the trigger and manage your financial risk. MT4 and MT5 have been the industry standard for decades because of their stability and speed. This lesson will walk you through the essential setup steps—from connecting your broker account to executing your first demo trade—ensuring you are technically ready to enter the global arena with confidence.",
+        sections: [
+          {
+            title: "The Industry Standard",
+            icon: <Settings size={24} />,
+            illustration: <MT4TerminalVisual />,
+--
+        title: "The DNA of Price: Anatomy of a Candlestick",
+        duration: "15 min",
+        difficulty: "Beginner",
+        moduleLessonsCount: 3,
+        objectives: [
+          "Explain the four data points of a candlestick: Open, High, Low, and Close (OHLC)",
+          "Distinguish between the 'Body' and the 'Wicks' (Shadows) of a candle",
+          "Identify 'Bullish' vs. 'Bearish' momentum based on candle color and closing price",
+          "Interpret market sentiment by analyzing the size of the body relative to the wicks"
+        ],
+        introduction: "Candlesticks are the DNA of price action. They tell a story of the battle between buyers and sellers over a specific period—be it one minute or one month. Learning to read them is like learning to read the market's mind. Every candle provides a snapshot of who is in control and how much conviction they have. This lesson will break down the anatomy of a single candlestick, giving you the foundation to read the 'language' of the charts with clarity.",
+        sections: [
+          {
+            title: "Visualizing the Battle: OHLC",
+            icon: <CandlestickChart size={24} />,
+            illustration: <CandleAnatomyVisual />,
+--
+        title: "The Momentum Takeover: Engulfing Patterns",
+        duration: "15 min",
+        difficulty: "Beginner",
+        moduleLessonsCount: 3,
+        objectives: [
+          "Identify 'Bullish Engulfing' and 'Bearish Engulfing' patterns on a live chart",
+          "Explain the psychology behind the 'Takeover'—where one side completely overwhelms the other",
+          "Use engulfing patterns as high-probability signals for potential trend reversals or continuations",
+          "Combine engulfing patterns with key support and resistance levels for maximum accuracy"
+        ],
+        introduction: "When one side of the market completely overwhelms the other, we see an 'Engulfing' pattern. This is one of the most reliable and powerful signals in technical analysis because it represents a total shift in momentum. It is the visual representation of a 'Takeover'—where the previous trend's strength is completely consumed by a new, opposing force. This lesson will teach you how to spot these patterns and, more importantly, how to trade them when they appear at the right time and place.",
+        sections: [
+          {
+            title: "The Psychology of the Takeover",
+            icon: <ZapIcon size={24} />,
+            illustration: <MomentumVsExhaustionVisual />,
+--
+        title: "The Market's 'No': Pin Bars & Rejections",
+        duration: "15 min",
+        difficulty: "Beginner",
+        moduleLessonsCount: 3,
+        objectives: [
+          "Identify 'Pin Bars' (Hammers and Shooting Stars) and explain their structural anatomy",
+          "Interpret the psychology of 'Price Rejection'—why the market failed to hold a specific level",
+          "Distinguish between a valid Pin Bar and a weak candle with a long wick",
+          "Execute trades based on Pin Bar signals when they appear at key confluence zones"
+        ],
+        introduction: "A Pin Bar is the market's way of saying 'No'. It is a single candlestick that shows a sharp rejection of a specific price level, leaving behind a long wick (the 'nose') and a small body. This pattern is one of the most powerful reversal signals because it visually captures the moment when one side of the market tried to push price through a level but was violently repelled by the other. This lesson will teach you how to identify these 'lying' candles and use them to spot high-probability turning points in the market.",
+        sections: [
+          {
+            title: "The Anatomy of Rejection",
+            icon: <Target size={24} />,
+            illustration: <MomentumVsExhaustionVisual />,
+--
+        title: "The Global Relay Race: The 24-Hour Market Cycle",
+        duration: "12 min",
+        difficulty: "Beginner",
+        moduleLessonsCount: 1,
+        objectives: [
+          "Understand the flow of global money as it moves through the four major trading sessions",
+          "Identify the exact opening and closing times for the Sydney, Tokyo, London, and New York sessions",
+          "Recognize the 'London/New York Overlap' as the period of peak liquidity and volatility",
+          "Explain the risks associated with 'The Gap'—the period when the market closes over the weekend"
+        ],
+        introduction: "Forex is a global relay race. As one financial center closes, another opens, creating a seamless 24-hour market that never sleeps. However, not all hours are created equal. The market has distinct 'personalities' depending on which session is active. Understanding this cycle helps you predict when the 'Big Moves' will happen and when it's better to stay on the sidelines. This lesson will walk you through the global clock, ensuring you know exactly when to be at your desk and when to walk away.",
+        sections: [
+          {
+            title: "The Sun Never Sets",
+            icon: <Clock4 size={24} />,
+            illustration: <MarketDriversSessionsVisual />,
+--
+        title: "The Foundation: Why Risk Management is Everything",
+        duration: "20 min",
+        difficulty: "Beginner",
+        moduleLessonsCount: 2,
+        objectives: [
+          "Understand the 'Gambler's Ruin' and how a string of losses can wipe out an account",
+          "Prioritize capital preservation over profit-seeking as the foundation of professional trading",
+          "Accept losses as necessary business costs rather than personal failures",
+          "Explain the difference between 'Trading' and 'Gambling' through the lens of risk control"
+        ],
+        introduction: "Most traders don't fail because they have a bad strategy; they fail because they have bad risk management. This is the most important module in the entire academy. You can have a 90% win rate and still lose everything if you don't manage your risk. On the flip side, you can have a 30% win rate and be incredibly profitable if your risk is controlled. This lesson will shift your mindset from 'How much can I make?' to 'How much can I afford to lose?'—the hallmark of a professional trader.",
+        sections: [
+          {
+            title: "Survival First: Capital is Your Inventory",
+            icon: <Shield size={24} />,
+            illustration: <MathRuinVisual />,
+--
+        ],
+        nextPreview: "Calculating Position Size"
+      },
+      {
+        id: "M6-L3",
+        title: "Calculating Position Size",
+        duration: "20 mins",
+        difficulty: "Beginner",
+        moduleLessonsCount: 2,
+        objectives: ["Use the position size formula", "Adjust lots based on SL", "Master the math"],
+        introduction: "You should never enter a trade without knowing exactly how much money you will lose if your stop loss is hit. This lesson teaches you the exact formula for professional position sizing.",
+        sections: [
+          {
+            title: "Precision Sizing",
+            icon: <PieChart size={24} />,
+            illustration: <PositionSizingVisual />,
+--
+    title: "Module 7: Market Structure",
+    icon: <TrendingUp className="text-navy" size={24} />,
+    lessons: [
+      {
+        id: "M7-L1",
+        title: "What is Market Structure?",
+        duration: "15 mins",
+        difficulty: "Intermediate",
+        moduleLessonsCount: 2,
+        objectives: ["Identify HH, HL, LH, LL", "Define Bullish vs Bearish structure", "Understand the 'Swing'"],
+        introduction: "Market structure is the skeleton of the market. Everything else—indicators, news, patterns—is just flesh on these bones. If you don't understand structure, you are trading blind.",
+        sections: [
+          {
+            title: "The Skeleton of the Market",
+            icon: <TrendingUp size={24} />,
+            illustration: <MarketStructureVisual />,
+--
+        ],
+        nextPreview: "Break of Structure (BOS)"
+      },
+      {
+        id: "M7-L2",
+        title: "Break of Structure (BOS)",
+        duration: "15 mins",
+        difficulty: "Intermediate",
+        moduleLessonsCount: 2,
+        objectives: ["Identify a valid BOS", "Differentiate BOS vs Wick", "Understand trend continuation"],
+        introduction: "A trend is just a series of structure breaks. When price breaks a previous high or low, it's telling you that the momentum is still alive. This lesson teaches you how to confirm a trend's health.",
+        sections: [
+          {
+            title: "Trend Confirmation",
+            icon: <ZapIcon size={24} />,
+            illustration: <StructureShiftVisual />,
+--
+    title: "Module 8: Support & Resistance",
+    icon: <ArrowUpRight className="text-navy" size={24} />,
+    lessons: [
+      {
+        id: "M8-L1",
+        title: "What is Support & Resistance",
+        duration: "15 mins",
+        difficulty: "Intermediate",
+        moduleLessonsCount: 1,
+        objectives: ["Identify historical turning points", "Understand psychological levels", "Draw zones vs lines"],
+        introduction: "Support and Resistance are the 'floors' and 'ceilings' of the market. They are areas where the balance of power between buyers and sellers shifted in the past, and likely will again.",
+        sections: [
+          {
+            title: "Price Floors and Ceilings",
+            icon: <ArrowUpRight size={24} />,
+            illustration: <SupportResistanceVisual />,
+--
+    title: "Module 9: Trend Trading",
+    icon: <LineChart className="text-navy" size={24} />,
+    lessons: [
+      {
+        id: "M9-L1",
+        title: "The Trend is Your Friend",
+        duration: "15 mins",
+        difficulty: "Intermediate",
+        moduleLessonsCount: 1,
+        objectives: ["Identify trend direction", "Use trendlines correctly", "Understand trend strength"],
+        introduction: "Trading with the trend is like swimming with the current—it's easier, faster, and more likely to get you to your destination. This lesson teaches you how to ride the market's momentum.",
+        sections: [
+          {
+            title: "Following Momentum",
+            icon: <LineChart size={24} />,
+            illustration: <MarketPhasesVisual />,
+--
+    title: "Module 10: Breakouts",
+    icon: <ZapIcon className="text-navy" size={24} />,
+    lessons: [
+      {
+        id: "M10-L1",
+        title: "The Anatomy of a Breakout",
+        duration: "15 mins",
+        difficulty: "Intermediate",
+        moduleLessonsCount: 1,
+        objectives: ["Identify consolidation", "Recognize breakout momentum", "Avoid fakeouts"],
+        introduction: "A breakout is like a dam bursting. After price has been contained in a range or behind a level, it finally explodes through. If you catch it early, the profits can be massive.",
+        sections: [
+          {
+            title: "Explosive Movement",
+            icon: <ZapIcon size={24} />,
+            illustration: <BreakAndRetestVisual />,
+--
+    title: "Module 11: Indicator Library",
+    icon: <BarChart2 className="text-navy" size={24} />,
+    lessons: [
+      {
+        id: "M11-L1",
+        title: "Introduction to Indicators",
+        duration: "12 mins",
+        difficulty: "Intermediate",
+        moduleLessonsCount: 2,
+        objectives: ["Understand lagging vs leading", "Avoid indicator overload", "Use indicators as confluence"],
+        introduction: "Indicators are mathematical calculations based on price and volume. They don't predict the future, but they can help you filter out noise and confirm what price action is already telling you.",
+        sections: [
+          {
+            title: "Mathematical Confirmation",
+            icon: <Activity size={24} />,
+            illustration: <TradingViewInterfaceVisual />,
+--
+        ],
+        nextPreview: "Moving Averages (SMA & EMA)"
+      },
+      {
+        id: "M11-L2",
+        title: "Moving Averages (SMA & EMA)",
+        duration: "15 mins",
+        difficulty: "Intermediate",
+        moduleLessonsCount: 2,
+        objectives: ["Differentiate SMA vs EMA", "Identify trend with 50/200 EMA", "Use MAs as dynamic S&R"],
+        introduction: "Moving Averages (MAs) smooth out price data to create a single flowing line. This makes it much easier to see the true direction of the trend without being distracted by minor price wiggles.",
+        sections: [
+          {
+            title: "Smoothing Price",
+            icon: <BarChart2 size={24} />,
+            illustration: <MarketPhasesVisual />,
+--
+    title: "Module 12: Entry & Exit Techniques",
+    icon: <Target className="text-navy" size={24} />,
+    lessons: [
+      {
+        id: "M12-L1",
+        title: "Anticipation vs Confirmation Entries",
+        duration: "15 mins",
+        difficulty: "Intermediate",
+        moduleLessonsCount: 1,
+        objectives: ["Understand the trade-off", "Identify confirmation signals", "Master entry timing"],
+        introduction: "You don't always have to be first. In fact, being second often pays better. This lesson explains the difference between guessing a reversal and waiting for proof.",
+        sections: [
+          {
+            title: "Pulling the Trigger",
+            icon: <Target size={24} />,
+            illustration: <ConfirmationEntryVisual />,
+--
+    title: "Module 13: Trading Strategies",
+    icon: <Zap className="text-navy" size={24} />,
+    lessons: [
+      {
+        id: "M13-L1",
+        title: "Strategy: Break and Retest",
+        duration: "20 mins",
+        difficulty: "Intermediate",
+        moduleLessonsCount: 1,
+        objectives: ["Master the B&R setup", "Identify valid retests", "Set targets"],
+        introduction: "The 'Break and Retest' is the bread and butter of professional trading. It's a simple, repeatable setup that capitalizes on the market's tendency to revisit broken levels.",
+        sections: [
+          {
+            title: "The Bread and Butter Strategy",
+            icon: <Zap size={24} />,
+            illustration: <BreakAndRetestVisual />,
+--
+    title: "Module 14: Advanced Market Structure",
+    icon: <Layers className="text-navy" size={24} />,
+    lessons: [
+      {
+        id: "M14-L1",
+        title: "Internal vs External Structure",
+        duration: "20 mins",
+        difficulty: "Advanced",
+        moduleLessonsCount: 1,
+        objectives: ["Identify Major vs Minor structure", "Understand Pro-trend vs Counter-trend", "Master the 'Range'"],
+        introduction: "The market is fractal. What looks like a straight line on the Daily chart is a complex series of trends on the 15-minute chart. This lesson teaches you how to map these layers without getting confused.",
+        sections: [
+          {
+            title: "The Market within the Market",
+            icon: <Layers size={24} />,
+            illustration: <MarketStructureVisual />,
+--
+    title: "Module 15: Liquidity Concepts",
+    icon: <Activity className="text-navy" size={24} />,
+    lessons: [
+      {
+        id: "M15-L1",
+        title: "What is Liquidity?",
+        duration: "20 mins",
+        difficulty: "Advanced",
+        moduleLessonsCount: 2,
+        objectives: ["Identify Buy-side vs Sell-side liquidity", "Understand 'Stop Clusters'", "Recognize 'Engineered' liquidity"],
+        introduction: "Liquidity is the fuel that moves the market. Institutions need large amounts of it to fill their orders. This lesson teaches you how to see where the 'Big Money' is looking to enter.",
+        sections: [
+          {
+            title: "Fuel for the Market",
+            icon: <Activity size={24} />,
+            illustration: <LiquidityTrapVisual />,
+--
+        ],
+        nextPreview: "Stop Hunts and Liquidity Grabs"
+      },
+      {
+        id: "M15-L2",
+        title: "Stop Hunts and Liquidity Grabs",
+        duration: "20 mins",
+        difficulty: "Advanced",
+        moduleLessonsCount: 2,
+        objectives: ["Identify the 'Sweep'", "Understand the 'Judas Swing'", "Trade the reversal after the grab"],
+        introduction: "A stop hunt is not a conspiracy; it's a necessity for large players. This lesson teaches you how to stop being the victim and start being the hunter.",
+        sections: [
+          {
+            title: "The Institutional Trap",
+            icon: <ZapIcon size={24} />,
+            illustration: <LiquiditySweepVisual />,
+--
+    title: "Module 16: Supply & Demand",
+    icon: <Target className="text-navy" size={24} />,
+    lessons: [
+      {
+        id: "M16-L1",
+        title: "Supply & Demand vs S&R",
+        duration: "20 mins",
+        difficulty: "Advanced",
+        moduleLessonsCount: 1,
+        objectives: ["Identify 'Fresh' zones", "Understand Rally-Base-Rally (RBR)", "Differentiate zones from levels"],
+        introduction: "Supply and Demand are the true drivers of price. While Support and Resistance are historical levels, S&D zones are the actual footprints of institutional orders.",
+        sections: [
+          {
+            title: "Institutional Footprints",
+            icon: <Target size={24} />,
+            illustration: <SupplyDemandVisual />,
+--
+    title: "Module 17: Multi-Timeframe Analysis",
+    icon: <Monitor className="text-navy" size={24} />,
+    lessons: [
+      {
+        id: "M17-L1",
+        title: "The Top-Down Approach",
+        duration: "20 mins",
+        difficulty: "Advanced",
+        moduleLessonsCount: 1,
+        objectives: ["Master the HTF to LTF flow", "Establish Daily bias", "Refine entries on M1/M5"],
+        introduction: "Looking at only one timeframe is like looking at a map through a straw. Multi-timeframe analysis allows you to see the 'Big Picture' while still getting a precise entry.",
+        sections: [
+          {
+            title: "The Full Perspective",
+            icon: <Monitor size={24} />,
+            illustration: <MultiTimeframeVisual />,
+--
+    title: "Module 18: Advanced Price Action",
+    icon: <CandlestickChart className="text-navy" size={24} />,
+    lessons: [
+      {
+        id: "M18-L1",
+        title: "Price Delivery: Compression vs Expansion",
+        duration: "20 mins",
+        difficulty: "Advanced",
+        moduleLessonsCount: 1,
+        objectives: ["Identify 'Order Flow' compression", "Recognize expansion phases", "Trade the transition"],
+        introduction: "The market moves in two phases: building orders and executing them. This lesson teaches you how to recognize when a big move is being 'loaded' and when it's about to explode.",
+        sections: [
+          {
+            title: "The Breath of the Market",
+            icon: <CandlestickChart size={24} />,
+            illustration: <WyckoffSchematicVisual />,
+--
+    title: "Module 19: Fundamentals & Macro",
+    icon: <Globe className="text-navy" size={24} />,
+    lessons: [
+      {
+        id: "M19-L1",
+        title: "Central Banks and Interest Rates",
+        duration: "25 mins",
+        difficulty: "Advanced",
+        moduleLessonsCount: 1,
+        objectives: ["Understand the role of the Fed/ECB", "Recognize 'Hawkish' vs 'Dovish' tones", "Trade interest rate decisions"],
+        introduction: "While technicals tell you 'When' and 'Where', fundamentals tell you 'Why'. Central banks are the ultimate market movers. This lesson teaches you how to follow their lead.",
+        sections: [
+          {
+            title: "The Puppeteers",
+            icon: <Globe size={24} />,
+            illustration: <MarketDriversSessionsVisual />,
+--
+    title: "Module 20: Trading Psychology",
+    icon: <Brain className="text-navy" size={24} />,
+    lessons: [
+      {
+        id: "M20-L1",
+        title: "The Psychology of Winning and Losing",
+        duration: "25 mins",
+        difficulty: "Advanced",
+        moduleLessonsCount: 1,
+        objectives: ["Master emotional detachment", "Understand the 'Probability Mindset'", "Build a professional routine"],
+        introduction: "You can have the best strategy in the world, but if you can't control your emotions, you will lose. Trading is 20% strategy and 80% psychology. This lesson is about mastering yourself.",
+        sections: [
+          {
+            title: "The Inner Game",
+            icon: <Brain size={24} />,
+            illustration: <ProbabilityDistributionVisual />,
+--
+    title: "TradingView Mastery",
+    icon: <Monitor className="text-navy" size={24} />,
+    lessons: [
+      {
+        id: "PM-L1",
+        title: "Advanced Charting Tools",
+        duration: "20 mins",
+        difficulty: "Intermediate",
+        moduleLessonsCount: 2,
+        objectives: ["Use Fibonacci tools", "Create custom layouts", "Set advanced alerts"],
+        introduction: "TradingView is more than just a chart; it's a professional workstation. This lesson teaches you how to unlock its full potential to streamline your analysis.",
+        sections: [
+          {
+            title: "Beyond the Basics",
+            icon: <Monitor size={24} />,
+            illustration: <TradingViewInterfaceVisual />,
+--
+    title: "MetaTrader 4/5 Guide",
+    icon: <Settings className="text-navy" size={24} />,
+    lessons: [
+      {
+        id: "PM-L2",
+        title: "Advanced Execution on MT5",
+        duration: "20 mins",
+        difficulty: "Intermediate",
+        moduleLessonsCount: 2,
+        objectives: ["Use EAs for risk management", "Analyze trade history", "Optimize platform performance"],
+        introduction: "MetaTrader is the industry standard for execution. While it may look dated, its power lies in its stability and the ability to use custom tools for precision trading.",
+        sections: [
+          {
+            title: "Professional Execution",
+            icon: <Settings size={24} />,
+            illustration: <MT4TerminalVisual />,
+--
+    title: "The Trader's Mindset",
+    icon: <Brain className="text-navy" size={24} />,
+    lessons: [
+      {
+        id: "PSY-L1",
+        title: "Developing a Probability Mindset",
+        duration: "25 mins",
+        difficulty: "Advanced",
+        moduleLessonsCount: 2,
+        objectives: ["Accept uncertainty", "Think in series", "Eliminate the need to be right"],
+        introduction: "The biggest hurdle to success isn't the market; it's your own brain. This lesson teaches you how to shift from looking for 'Certainty' to thinking in 'Probabilities'.",
+        sections: [
+          {
+            title: "Thinking Like a Casino",
+            icon: <Brain size={24} />,
+            illustration: <ProbabilityDistributionVisual />,
+--
+    title: "Managing Emotions",
+    icon: <Activity className="text-navy" size={24} />,
+    lessons: [
+      {
+        id: "PSY-L2",
+        title: "Fear and Greed in Trading",
+        duration: "20 mins",
+        difficulty: "Advanced",
+        moduleLessonsCount: 2,
+        objectives: ["Identify emotional triggers", "Use a trading journal", "Build a pre-trade routine"],
+        introduction: "Fear and Greed are the two primary drivers of retail failure. This lesson helps you identify these emotions in real-time and provides tools to neutralize them.",
+        sections: [
+          {
+            title: "The Emotional Rollercoaster",
+            icon: <Activity size={24} />,
+            illustration: <ProbabilityDistributionVisual />,
+--
+    title: "News Trading",
+    icon: <Zap className="text-navy" size={24} />,
+    lessons: [
+      {
+        id: "SPEC-L1",
+        title: "Trading High-Impact News",
+        duration: "25 mins",
+        difficulty: "Advanced",
+        moduleLessonsCount: 2,
+        objectives: ["Read the economic calendar", "Understand slippage and spreads", "Trade the NFP and FOMC"],
+        introduction: "News events are the catalysts for massive volatility. While dangerous, they offer the fastest moves in the market if you know how to navigate them safely.",
+        sections: [
+          {
+            title: "Volatility Events",
+            icon: <Zap size={24} />,
+            illustration: <MarketDriversSessionsVisual />,
+--
+    title: "Prop Firm Mastery",
+    icon: <Shield className="text-navy" size={24} />,
+    lessons: [
+      {
+        id: "SPEC-L2",
+        title: "Passing a Prop Firm Challenge",
+        duration: "30 mins",
+        difficulty: "Advanced",
+        moduleLessonsCount: 2,
+        objectives: ["Understand drawdown limits", "Manage daily loss limits", "Build a consistent track record"],
+        introduction: "Prop firms allow you to trade with massive capital without risking your own life savings. However, they have strict rules that require professional discipline to follow.",
+        sections: [
+          {
+            title: "Trading Other People's Money",
+            icon: <Shield size={24} />,
+            illustration: <MathRuinVisual />,
